@@ -1,5 +1,6 @@
 {
   "title": "Test title",
   "message": "Test message",
-  "link": "https://wheybags.com"
+  "link": "https://wheybags.com",
+  "linkText": "Click Here"
 }
