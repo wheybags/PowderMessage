@@ -1,4 +1,5 @@
 {
   "title": "Test title",
-  "message": "Test message <a href=\"https://this_is_a_link.com/powder.exe\">blah</a>"
+  "message": "Test message"
+  "link": "https://google.com"
 }
